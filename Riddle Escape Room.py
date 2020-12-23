@@ -8,7 +8,7 @@ print("Clue: There was a castastrpohic cyber attack recently. \n The governemt i
 secret_word = "ransomeware"
 guess = ""
 guess_number = 0
-guess_limit = 4
+guess_limit = 3
 out_guess = False 
 
 
